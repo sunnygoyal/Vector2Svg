@@ -1,0 +1,6 @@
+{
+  "name": "Vector2SVG - Android Vector Drawable to SVG Converter",
+  "description": "Convert Android Vector Drawable XML into clean SVG with live preview, automated fallback resolution for missing references, and customizable color and reference overrides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
